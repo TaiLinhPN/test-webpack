@@ -1,0 +1,1 @@
+(()=>{var o={52:o=>{o.exports={addition:(o,r)=>o+r,subtraction:(o,r)=>o-r}}},r={};function t(n){var s=r[n];if(void 0!==s)return s.exports;var e=r[n]={exports:{}};return o[n](e,e.exports,t),e.exports}(()=>{const{subtraction:o}=t(52),r=o(3,5);console.log(r)})()})();
